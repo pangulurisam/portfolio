@@ -2,20 +2,20 @@ import ArrowRightIcon from '@/assets/icons/arrow-up-right.svg'
 
 const footerLinks =[
   {
-    title: 'YoutTube',
-    href: '#',
+    title: 'Resume',
+    href: 'https://drive.google.com/file/d/1uw80FHKatekAg6Lwby_BRl_A_WTyhN6o/view?usp=sharing',
   },
   {
-    title: 'Twitter',
-    href: '#',
+    title: 'StopStalk',
+    href: 'https://www.stopstalk.com/user/profile/Pnikky2002',
   },
   {
-    title: 'Instagram',
-    href: '#',
+    title: 'Github',
+    href: 'https://github.com/pangulurisam',
   },
   {
     title: 'LinkedIn',
-    href: '#',
+    href: 'https://www.linkedin.com/in/sam-sangeeth-7a942420a/',
   },
 ]
 
